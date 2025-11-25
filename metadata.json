@@ -1,0 +1,7 @@
+{
+  "name": "Hat Yai Flood Rescue",
+  "description": "A real-time coordination platform for flood relief in Hat Yai. Allows victims to pin their location, request specific aid, and categorizes urgency using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
